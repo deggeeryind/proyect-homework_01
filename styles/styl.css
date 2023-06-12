@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header_nav{
+    height: 80px;
+}
+
+.enlace{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+.enlace:hover{
+    text-decoration: underline;
+}
+
+
